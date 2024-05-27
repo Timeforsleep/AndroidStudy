@@ -146,7 +146,7 @@
                 android:background="@null"
                 android:textColor="@color/common_color"
                 android:textSize="@dimen/sp_16"
-                tools:text="2018-01-01" />
+                tools:text="2023-01-01" />
 
             <ImageView
                 android:id="@+id/iv_arrow_right"

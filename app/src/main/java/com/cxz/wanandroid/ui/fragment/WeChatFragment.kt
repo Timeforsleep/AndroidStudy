@@ -17,8 +17,8 @@ import org.jetbrains.anko.doAsync
 import org.jetbrains.anko.uiThread
 
 /**
- * @author chenxz
- * @date 2018/10/28
+ * @author guoyikai
+ * @date 2023/10/28
  * @desc 公众号
  */
 class WeChatFragment : BaseMvpFragment<WeChatContract.View, WeChatContract.Presenter>(), WeChatContract.View {

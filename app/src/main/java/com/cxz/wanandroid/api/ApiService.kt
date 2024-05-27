@@ -5,7 +5,7 @@ import io.reactivex.Observable
 import retrofit2.http.*
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 interface ApiService {
 
@@ -230,7 +230,7 @@ interface ApiService {
      * @param body
      *          title: 新增标题
      *          content: 新增详情
-     *          date: 2018-08-01
+     *          date: 2023-08-01
      *          type: 0
      */
     @POST("/lg/todo/add/json")
@@ -243,7 +243,7 @@ interface ApiService {
      * @param body
      *          title: 新增标题
      *          content: 新增详情
-     *          date: 2018-08-01
+     *          date: 2023-08-01
      *          status: 0 // 0为未完成，1为完成
      *          type: 0
      */

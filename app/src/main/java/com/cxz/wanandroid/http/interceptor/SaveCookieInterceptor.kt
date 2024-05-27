@@ -5,8 +5,8 @@ import okhttp3.Interceptor
 import okhttp3.Response
 
 /**
- * @author chenxz
- * @date 2018/9/26
+ * @author guoyikai
+ * @date 2023/9/26
  * @desc SaveCookieInterceptor: 保存 Cookie
  */
 class SaveCookieInterceptor : Interceptor {

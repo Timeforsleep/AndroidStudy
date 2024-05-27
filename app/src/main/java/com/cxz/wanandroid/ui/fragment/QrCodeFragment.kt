@@ -5,7 +5,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.base.BaseFragment
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/17
  * @desc 扫码下载
  */

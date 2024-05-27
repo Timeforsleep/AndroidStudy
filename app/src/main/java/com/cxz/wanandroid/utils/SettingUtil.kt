@@ -6,7 +6,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.app.App
 
 /**
- * Created by chenxz on 2018/6/18.
+ * Created by guoyikai on 2023/6/18.
  */
 object SettingUtil {
     private val setting = PreferenceManager.getDefaultSharedPreferences(App.context)

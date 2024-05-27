@@ -9,7 +9,7 @@ import com.cxz.wanandroid.mvp.model.bean.Article
 import com.cxz.wanandroid.utils.ImageLoader
 
 /**
- * Created by chenxz on 2018/5/20.
+ * Created by guoyikai on 2023/5/20.
  */
 class ProjectAdapter : BaseQuickAdapter<Article, BaseViewHolder>(R.layout.item_project_list), LoadMoreModule {
 

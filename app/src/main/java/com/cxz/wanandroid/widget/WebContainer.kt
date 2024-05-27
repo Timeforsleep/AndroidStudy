@@ -11,7 +11,7 @@ import com.cxz.wanandroid.utils.ColorUtil
 import com.cxz.wanandroid.utils.SettingUtil
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/24
  * @desc WebContainer
  */

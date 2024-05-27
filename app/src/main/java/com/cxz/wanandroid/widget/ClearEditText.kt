@@ -11,7 +11,7 @@ import androidx.appcompat.widget.AppCompatEditText
 import com.cxz.wanandroid.R
 
 /**
- * Created by chenxz on 2018/7/22.
+ * Created by guoyikai on 2023/7/22.
  */
 class ClearEditText @JvmOverloads constructor(
     context: Context,

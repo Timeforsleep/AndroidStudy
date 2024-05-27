@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.contract.AddTodoContract
 import com.cxz.wanandroid.mvp.model.AddTodoModel
 
 /**
- * Created by chenxz on 2018/8/11.
+ * Created by guoyikai on 2023/8/11.
  */
 class AddTodoPresenter : BasePresenter<AddTodoContract.Model, AddTodoContract.View>(), AddTodoContract.Presenter {
 

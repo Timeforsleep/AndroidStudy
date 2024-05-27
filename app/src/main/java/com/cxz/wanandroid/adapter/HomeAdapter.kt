@@ -12,7 +12,7 @@ import com.cxz.wanandroid.mvp.model.bean.Article
 import com.cxz.wanandroid.utils.ImageLoader
 
 /**
- * Created by chenxz on 2018/4/22.
+ * Created by guoyikai on 2023/4/22.
  */
 class HomeAdapter : BaseQuickAdapter<Article, BaseViewHolder>(R.layout.item_home_list), LoadMoreModule {
 

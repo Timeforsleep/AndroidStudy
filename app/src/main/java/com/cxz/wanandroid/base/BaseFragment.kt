@@ -16,7 +16,7 @@ import org.greenrobot.eventbus.Subscribe
 import org.greenrobot.eventbus.ThreadMode
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 abstract class BaseFragment : Fragment() {
 

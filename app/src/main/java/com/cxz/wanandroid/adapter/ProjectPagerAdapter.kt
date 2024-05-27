@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.ProjectTreeBean
 import com.cxz.wanandroid.ui.fragment.ProjectListFragment
 
 /**
- * Created by chenxz on 2018/5/20.
+ * Created by guoyikai on 2023/5/20.
  */
 class ProjectPagerAdapter(private val list: MutableList<ProjectTreeBean>, fm: FragmentManager) : FragmentStatePagerAdapter(fm) {
 

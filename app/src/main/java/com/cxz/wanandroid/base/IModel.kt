@@ -3,7 +3,7 @@ package com.cxz.wanandroid.base
 import io.reactivex.disposables.Disposable
 
 /**
- * Created by chenxz on 2018/8/18.
+ * Created by guoyikai on 2023/8/18.
  */
 interface IModel {
 

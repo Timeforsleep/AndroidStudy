@@ -7,7 +7,7 @@ import com.google.android.material.tabs.TabLayout
 import java.lang.reflect.Field
 
 /**
- * Created by chenxz on 2018/5/27.
+ * Created by guoyikai on 2023/5/27.
  */
 object TabLayoutHelper {
 

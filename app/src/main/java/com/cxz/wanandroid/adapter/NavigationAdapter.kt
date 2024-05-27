@@ -18,7 +18,7 @@ import com.zhy.view.flowlayout.TagAdapter
 import com.zhy.view.flowlayout.TagFlowLayout
 
 /**
- * Created by chenxz on 2018/5/13.
+ * Created by guoyikai on 2023/5/13.
  */
 class NavigationAdapter : BaseQuickAdapter<NavigationBean, BaseViewHolder>(R.layout.item_navigation_list),
     LoadMoreModule {

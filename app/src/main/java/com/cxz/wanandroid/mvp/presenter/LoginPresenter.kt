@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.contract.LoginContract
 import com.cxz.wanandroid.mvp.model.LoginModel
 
 /**
- * Created by chenxz on 2018/5/27.
+ * Created by guoyikai on 2023/5/27.
  */
 class LoginPresenter : BasePresenter<LoginContract.Model, LoginContract.View>(), LoginContract.Presenter {
 

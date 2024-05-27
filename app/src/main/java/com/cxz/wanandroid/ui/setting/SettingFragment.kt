@@ -23,7 +23,7 @@ import org.greenrobot.eventbus.EventBus
 import java.util.concurrent.TimeUnit
 
 /**
- * Created by chenxz on 2018/6/13.
+ * Created by guoyikai on 2023/6/13.
  */
 class SettingFragment : PreferenceFragment(), SharedPreferences.OnSharedPreferenceChangeListener {
 

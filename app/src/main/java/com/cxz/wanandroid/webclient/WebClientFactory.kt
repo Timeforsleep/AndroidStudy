@@ -3,7 +3,7 @@ package com.cxz.wanandroid.webclient
 import android.webkit.WebViewClient
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/24
  * @desc WebClientFactory
  */

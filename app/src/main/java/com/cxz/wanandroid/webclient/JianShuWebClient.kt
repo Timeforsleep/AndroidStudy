@@ -9,7 +9,7 @@ import java.io.ByteArrayInputStream
 import java.util.regex.Pattern
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/24
  * @desc JianShuWebClient  参考文章：https://mp.weixin.qq.com/s/gs2bojFLBB4IAWMyN9lfnw
  */

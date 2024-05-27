@@ -8,7 +8,7 @@ import q.rorbin.verticaltablayout.adapter.TabAdapter
 import q.rorbin.verticaltablayout.widget.ITabView
 
 /**
- * Created by chenxz on 2018/5/13.
+ * Created by guoyikai on 2023/5/13.
  */
 class NavigationTabAdapter(context: Context?, list: List<NavigationBean>) : TabAdapter {
 

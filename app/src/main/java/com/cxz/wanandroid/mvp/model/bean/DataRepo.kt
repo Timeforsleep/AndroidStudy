@@ -5,7 +5,7 @@ import org.litepal.crud.LitePalSupport
 import java.io.Serializable
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 //data class HttpResult<T>(@Json(name = "data") val data: T,
 //                         @Json(name = "errorCode") val errorCode: Int,

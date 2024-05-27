@@ -12,7 +12,7 @@ import com.cxz.wanandroid.mvp.model.bean.Article
 import com.cxz.wanandroid.utils.ImageLoader
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/15
  * @desc
  */

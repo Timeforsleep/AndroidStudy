@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.contract.ScoreContract
 import com.cxz.wanandroid.mvp.model.ScoreModel
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/9/5
  * @desc
  */

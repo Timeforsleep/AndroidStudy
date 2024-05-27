@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.contract.ProjectContract
 import com.cxz.wanandroid.mvp.model.ProjectModel
 
 /**
- * Created by chenxz on 2018/5/15.
+ * Created by guoyikai on 2023/5/15.
  */
 class ProjectPresenter : BasePresenter<ProjectContract.Model, ProjectContract.View>(), ProjectContract.Presenter {
 

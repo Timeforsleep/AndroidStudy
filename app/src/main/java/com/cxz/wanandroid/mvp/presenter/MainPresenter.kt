@@ -7,8 +7,8 @@ import com.cxz.wanandroid.mvp.contract.MainContract
 import com.cxz.wanandroid.mvp.model.MainModel
 
 /**
- * @author chenxz
- * @date 2018/8/30
+ * @author guoyikai
+ * @date 2023/8/30
  * @desc
  */
 class MainPresenter : BasePresenter<MainContract.Model, MainContract.View>(), MainContract.Presenter {

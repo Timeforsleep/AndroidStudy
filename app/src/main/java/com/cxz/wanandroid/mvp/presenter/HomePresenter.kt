@@ -11,7 +11,7 @@ import io.reactivex.Observable
 import io.reactivex.functions.BiFunction
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 class HomePresenter : CommonPresenter<HomeContract.Model, HomeContract.View>(), HomeContract.Presenter {
 

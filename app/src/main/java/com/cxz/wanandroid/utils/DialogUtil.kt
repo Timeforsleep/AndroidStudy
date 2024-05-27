@@ -7,7 +7,7 @@ import android.text.TextUtils
 import androidx.appcompat.app.AlertDialog
 
 /**
- * Created by chenxz on 2018/6/9.
+ * Created by guoyikai on 2023/6/9.
  * 对话框辅助类,需要自己调用show方法
  */
 object DialogUtil {

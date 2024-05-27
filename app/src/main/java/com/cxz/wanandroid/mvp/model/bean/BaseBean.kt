@@ -2,7 +2,7 @@ package com.cxz.wanandroid.mvp.model.bean
 
 /**
  * @author admin
- * @date 2018/11/21
+ * @date 2023/11/21
  * @desc
  */
 open class BaseBean {

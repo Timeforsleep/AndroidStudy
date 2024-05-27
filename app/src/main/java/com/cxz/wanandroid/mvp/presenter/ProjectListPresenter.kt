@@ -5,7 +5,7 @@ import com.cxz.wanandroid.mvp.contract.ProjectListContract
 import com.cxz.wanandroid.mvp.model.ProjectListModel
 
 /**
- * Created by chenxz on 2018/5/20.
+ * Created by guoyikai on 2023/5/20.
  */
 class ProjectListPresenter : CommonPresenter<ProjectListContract.Model, ProjectListContract.View>(), ProjectListContract.Presenter {
 

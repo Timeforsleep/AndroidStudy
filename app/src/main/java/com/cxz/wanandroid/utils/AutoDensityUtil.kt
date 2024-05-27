@@ -6,7 +6,7 @@ import android.content.ComponentCallbacks
 import android.content.res.Configuration
 
 /**
- * Created by chenxz on 2018/8/15.
+ * Created by guoyikai on 2023/8/15.
  *
  * 感谢今日头条提供的方案  https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA
  */

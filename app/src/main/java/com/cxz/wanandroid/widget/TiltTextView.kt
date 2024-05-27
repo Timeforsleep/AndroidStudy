@@ -9,8 +9,8 @@ import android.view.View
 import com.cxz.wanandroid.R
 
 /**
- * @author chenxz
- * @date 2018/9/19
+ * @author guoyikai
+ * @date 2023/9/19
  * @desc 倾斜的 TextView
  */
 class TiltTextView : View {

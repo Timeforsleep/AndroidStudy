@@ -4,7 +4,7 @@ import io.reactivex.*
 import org.reactivestreams.Publisher
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 abstract class BaseScheduler<T> protected constructor(private val subscribeOnScheduler: Scheduler,
                                                       private val observeOnScheduler: Scheduler) : ObservableTransformer<T, T>,

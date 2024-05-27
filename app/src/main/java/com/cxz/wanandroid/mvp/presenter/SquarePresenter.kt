@@ -5,7 +5,7 @@ import com.cxz.wanandroid.mvp.contract.SquareContract
 import com.cxz.wanandroid.mvp.model.SquareModel
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/16
  * @desc
  */

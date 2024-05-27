@@ -30,7 +30,7 @@ import java.util.*
 import kotlin.properties.Delegates
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 class App : Application() {
 

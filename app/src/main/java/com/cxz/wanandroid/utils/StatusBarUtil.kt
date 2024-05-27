@@ -16,7 +16,7 @@ import androidx.drawerlayout.widget.DrawerLayout
 import com.cxz.wanandroid.R
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  * 沉浸式状态栏工具类
  */
 object StatusBarUtil {

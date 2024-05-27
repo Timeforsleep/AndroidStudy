@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.KnowledgeTreeBody
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/5/8.
+ * Created by guoyikai on 2023/5/8.
  */
 interface KnowledgeTreeContract {
 

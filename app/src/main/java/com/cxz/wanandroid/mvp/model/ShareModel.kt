@@ -7,7 +7,7 @@ import com.cxz.wanandroid.mvp.model.bean.ShareResponseBody
 import io.reactivex.Observable
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/15
  * @desc
  */

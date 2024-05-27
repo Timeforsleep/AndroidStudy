@@ -8,8 +8,8 @@ import com.cxz.wanandroid.mvp.model.bean.WXChapterBean
 import com.cxz.wanandroid.ui.fragment.KnowledgeFragment
 
 /**
- * @author chenxz
- * @date 2018/10/28
+ * @author guoyikai
+ * @date 2023/10/28
  * @desc
  */
 class WeChatPagerAdapter(private val list: MutableList<WXChapterBean>, fm: FragmentManager) :

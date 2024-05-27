@@ -12,7 +12,7 @@ import java.util.*
 import java.util.concurrent.ConcurrentHashMap
 
 /**
- * Created by chenxz on 2018/6/6.
+ * Created by guoyikai on 2023/6/6.
  */
 class PersistentCookieStore {
 

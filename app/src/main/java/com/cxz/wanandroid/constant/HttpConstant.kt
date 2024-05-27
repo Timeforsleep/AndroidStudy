@@ -3,7 +3,7 @@ package com.cxz.wanandroid.constant
 import com.cxz.wanandroid.utils.Preference
 
 /**
- * Created by chenxz on 2018/6/9.
+ * Created by guoyikai on 2023/6/9.
  */
 object HttpConstant {
 

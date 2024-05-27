@@ -5,7 +5,7 @@ import java.io.InputStream
 import java.io.InputStreamReader
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/24
  * @desc StringUtil
  */

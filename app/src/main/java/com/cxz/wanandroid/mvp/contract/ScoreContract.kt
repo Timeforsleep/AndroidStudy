@@ -9,7 +9,7 @@ import com.cxz.wanandroid.mvp.model.bean.UserScoreBean
 import io.reactivex.Observable
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/9/5
  * @desc
  */

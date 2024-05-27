@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.Knowledge
 import com.cxz.wanandroid.ui.fragment.KnowledgeFragment
 
 /**
- * Created by chenxz on 2018/5/10.
+ * Created by guoyikai on 2023/5/10.
  */
 class KnowledgePagerAdapter(val list: List<Knowledge>, fm: FragmentManager) : FragmentStatePagerAdapter(fm) {
 

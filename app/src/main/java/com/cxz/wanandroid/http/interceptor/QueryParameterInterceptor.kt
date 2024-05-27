@@ -5,8 +5,8 @@ import okhttp3.Request
 import okhttp3.Response
 
 /**
- * @author chenxz
- * @date 2018/9/26
+ * @author guoyikai
+ * @date 2023/9/26
  * @desc QueryParameterInterceptor 设置公共参数
  */
 class QueryParameterInterceptor : Interceptor {

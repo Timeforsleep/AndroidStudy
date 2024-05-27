@@ -4,8 +4,8 @@ import android.view.View
 import com.cxz.wanandroid.ext.showToast
 
 /**
- * @author chenxz
- * @date 2018/9/7
+ * @author guoyikai
+ * @date 2023/9/7
  * @desc BaseMvpFragment
  */
 @Suppress("UNCHECKED_CAST")

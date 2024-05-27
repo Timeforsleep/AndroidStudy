@@ -6,7 +6,7 @@ import androidx.annotation.FloatRange
 import androidx.annotation.IntRange
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/24
  * @desc ColorUtil
  */

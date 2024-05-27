@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.LoginData
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/6/3.
+ * Created by guoyikai on 2023/6/3.
  */
 interface RegisterContract {
 

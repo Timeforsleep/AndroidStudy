@@ -10,7 +10,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.app.App
 
 /**
- * Created by chenxz on 2018/6/12.
+ * Created by guoyikai on 2023/6/12.
  */
 object ImageLoader {
 

@@ -9,7 +9,7 @@ import android.webkit.*
 import com.cxz.wanandroid.ext.loge
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/24
  * @desc BaseWebClient
  */

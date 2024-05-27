@@ -9,7 +9,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.utils.SettingUtil
 
 /**
- * Created by chenxz on 2018/6/13.
+ * Created by guoyikai on 2023/6/13.
  */
 class AutoNightModeFragment : PreferenceFragment() {
 

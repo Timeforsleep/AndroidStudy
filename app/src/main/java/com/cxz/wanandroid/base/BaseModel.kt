@@ -8,7 +8,7 @@ import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 
 /**
- * Created by chenxz on 2018/8/18.
+ * Created by guoyikai on 2023/8/18.
  */
 abstract class BaseModel : IModel, LifecycleObserver {
 

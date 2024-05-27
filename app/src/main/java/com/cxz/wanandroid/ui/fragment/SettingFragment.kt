@@ -6,7 +6,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.base.BaseFragment
 
 /**
- * Created by chenxz on 2018/6/10.
+ * Created by guoyikai on 2023/6/10.
  */
 class SettingFragment : BaseFragment() {
 

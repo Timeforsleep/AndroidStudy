@@ -18,7 +18,7 @@ import java.io.File
 import java.util.concurrent.TimeUnit
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 object RetrofitHelper {
 

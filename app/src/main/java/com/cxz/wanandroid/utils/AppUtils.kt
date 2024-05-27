@@ -7,7 +7,7 @@ import android.content.pm.PackageManager
 import java.security.MessageDigest
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 class AppUtils private constructor() {
     init {

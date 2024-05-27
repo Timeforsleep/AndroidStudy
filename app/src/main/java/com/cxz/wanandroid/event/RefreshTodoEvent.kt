@@ -1,6 +1,6 @@
 package com.cxz.wanandroid.event
 
 /**
- * Created by chenxz on 2018/8/12.
+ * Created by guoyikai on 2023/8/12.
  */
 class RefreshTodoEvent(var isRefresh: Boolean, var type: Int)

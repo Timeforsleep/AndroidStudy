@@ -7,7 +7,7 @@ import android.view.View
 import android.view.animation.AccelerateInterpolator
 
 /**
- * Created by chenxz on 2018/5/13.
+ * Created by guoyikai on 2023/5/13.
  */
 object AnimatorUtil {
 

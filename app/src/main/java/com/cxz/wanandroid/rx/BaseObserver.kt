@@ -9,7 +9,7 @@ import com.cxz.wanandroid.utils.NetWorkUtil
 import io.reactivex.observers.ResourceObserver
 
 /**
- * Created by chenxz on 2018/6/11.
+ * Created by guoyikai on 2023/6/11.
  */
 abstract class BaseObserver<T : BaseBean> : ResourceObserver<T> {
 

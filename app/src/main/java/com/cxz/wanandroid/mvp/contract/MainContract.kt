@@ -8,8 +8,8 @@ import com.cxz.wanandroid.mvp.model.bean.UserInfoBody
 import io.reactivex.Observable
 
 /**
- * @author chenxz
- * @date 2018/8/30
+ * @author guoyikai
+ * @date 2023/8/30
  * @desc
  */
 interface MainContract {

@@ -11,8 +11,8 @@ import com.just.agentweb.AgentWebView
 
 
 /**
- * @author chenxz
- * @date 2018/11/14
+ * @author guoyikai
+ * @date 2023/11/14
  * @desc NestedScrollAgentWebView
  */
 class NestedScrollAgentWebView : AgentWebView, NestedScrollingChild {

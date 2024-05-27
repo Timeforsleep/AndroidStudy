@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 /**
- * Created by chenxz on 2018/5/9.
+ * Created by guoyikai on 2023/5/9.
  *
  * RecyclerView 分割线
  */

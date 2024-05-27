@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.item_icon_listpreference_preview.view.*
 import java.util.*
 
 /**
- * Created by chenxz on 2018/6/13.
+ * Created by guoyikai on 2023/6/13.
  */
 class IconListPreference(context: Context, attrs: AttributeSet) : ListPreference(context, attrs) {
 

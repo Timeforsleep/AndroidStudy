@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.LoginData
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/5/27.
+ * Created by guoyikai on 2023/5/27.
  */
 class LoginModel : BaseModel(), LoginContract.Model {
 

@@ -11,7 +11,7 @@ import com.cxz.wanandroid.mvp.model.bean.CollectionArticle
 import com.cxz.wanandroid.utils.ImageLoader
 
 /**
- * Created by chenxz on 2018/6/10.
+ * Created by guoyikai on 2023/6/10.
  */
 class CollectAdapter : BaseQuickAdapter<CollectionArticle, BaseViewHolder>(R.layout.item_collect_list), LoadMoreModule {
 

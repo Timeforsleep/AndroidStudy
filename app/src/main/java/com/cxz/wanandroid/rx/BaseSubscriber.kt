@@ -9,7 +9,7 @@ import com.cxz.wanandroid.utils.NetWorkUtil
 import io.reactivex.subscribers.ResourceSubscriber
 
 /**
- * Created by chenxz on 2018/6/11.
+ * Created by guoyikai on 2023/6/11.
  */
 abstract class BaseSubscriber<T : BaseBean> : ResourceSubscriber<T> {
 

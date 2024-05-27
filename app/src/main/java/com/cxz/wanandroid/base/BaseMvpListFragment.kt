@@ -9,7 +9,7 @@ import com.cxz.wanandroid.widget.SpaceItemDecoration
 import kotlinx.android.synthetic.main.fragment_refresh_layout.*
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/17
  * @desc BaseMvpListFragment
  */

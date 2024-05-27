@@ -10,7 +10,7 @@ import androidx.appcompat.widget.AppCompatImageView
 import com.cxz.wanandroid.R
 
 /**
- * Created by chenxz on 2018/4/22.
+ * Created by guoyikai on 2023/4/22.
  */
 class CircleImageView(context: Context, attrs: AttributeSet) : AppCompatImageView(context, attrs) {
 

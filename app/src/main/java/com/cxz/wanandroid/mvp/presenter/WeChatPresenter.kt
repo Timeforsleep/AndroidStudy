@@ -6,8 +6,8 @@ import com.cxz.wanandroid.mvp.contract.WeChatContract
 import com.cxz.wanandroid.mvp.model.WeChatModel
 
 /**
- * @author chenxz
- * @date 2018/10/28
+ * @author guoyikai
+ * @date 2023/10/28
  * @desc
  */
 class WeChatPresenter : BasePresenter<WeChatContract.Model, WeChatContract.View>(), WeChatContract.Presenter {

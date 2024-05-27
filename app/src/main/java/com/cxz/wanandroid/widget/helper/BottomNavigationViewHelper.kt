@@ -7,7 +7,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationMenuView
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 /**
- * Created by chenxz on 2018/6/10.
+ * Created by guoyikai on 2023/6/10.
  */
 object BottomNavigationViewHelper {
 

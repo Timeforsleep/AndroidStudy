@@ -9,7 +9,7 @@ import androidx.core.content.FileProvider
 import java.io.File
 
 /**
- * Created by chenxz on 2018/7/16.
+ * Created by guoyikai on 2023/7/16.
  */
 object FileProvider7 {
 

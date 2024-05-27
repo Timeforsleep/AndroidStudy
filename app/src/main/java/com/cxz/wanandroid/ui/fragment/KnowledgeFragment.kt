@@ -23,7 +23,7 @@ import com.cxz.wanandroid.widget.SpaceItemDecoration
 import kotlinx.android.synthetic.main.fragment_refresh_layout.*
 
 /**
- * Created by chenxz on 2018/5/10.
+ * Created by guoyikai on 2023/5/10.
  */
 class KnowledgeFragment : BaseMvpListFragment<KnowledgeContract.View, KnowledgeContract.Presenter>(),
     KnowledgeContract.View {

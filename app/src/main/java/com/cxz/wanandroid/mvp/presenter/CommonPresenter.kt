@@ -5,7 +5,7 @@ import com.cxz.wanandroid.ext.ss
 import com.cxz.wanandroid.mvp.contract.CommonContract
 
 /**
- * Created by chenxz on 2018/6/10.
+ * Created by guoyikai on 2023/6/10.
  */
 open class CommonPresenter<M : CommonContract.Model, V : CommonContract.View>
     : BasePresenter<M, V>(), CommonContract.Presenter<V> {

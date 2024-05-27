@@ -22,7 +22,7 @@ import org.greenrobot.eventbus.Subscribe
 import org.greenrobot.eventbus.ThreadMode
 
 /**
- * Created by chenxz on 2018/6/9.
+ * Created by guoyikai on 2023/6/9.
  */
 class CollectFragment : BaseMvpListFragment<CollectContract.View, CollectContract.Presenter>(), CollectContract.View {
 

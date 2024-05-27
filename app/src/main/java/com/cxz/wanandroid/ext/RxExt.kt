@@ -15,8 +15,8 @@ import io.reactivex.Observer
 import io.reactivex.disposables.Disposable
 
 /**
- * @author chenxz
- * @date 2018/11/22
+ * @author guoyikai
+ * @date 2023/11/22
  * @desc
  */
 

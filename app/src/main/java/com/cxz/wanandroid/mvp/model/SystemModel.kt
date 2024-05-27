@@ -4,7 +4,7 @@ import com.cxz.wanandroid.base.BaseModel
 import com.cxz.wanandroid.mvp.contract.SystemContract
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/17
  * @desc
  */

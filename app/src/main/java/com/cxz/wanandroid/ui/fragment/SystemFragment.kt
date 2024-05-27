@@ -16,7 +16,7 @@ import org.greenrobot.eventbus.Subscribe
 import org.greenrobot.eventbus.ThreadMode
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/17
  * @desc 体系
  */

@@ -10,7 +10,7 @@ import com.cxz.wanandroid.utils.AnimatorUtil
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 /**
- * Created by chenxz on 2018/5/13.
+ * Created by guoyikai on 2023/5/13.
  *
  * FAB 上滑隐藏 下滑显示
  */

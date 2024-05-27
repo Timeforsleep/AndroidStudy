@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.NavigationBean
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/5/13.
+ * Created by guoyikai on 2023/5/13.
  */
 class NavigationModel : BaseModel(), NavigationContract.Model {
 

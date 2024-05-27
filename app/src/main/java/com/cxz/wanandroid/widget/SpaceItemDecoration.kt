@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.StaggeredGridLayoutManager
 
 
 /**
- * Created by chenxz on 2018/5/9.
+ * Created by guoyikai on 2023/5/9.
  *
  * 简单的 RecyclerView 分割线
  */

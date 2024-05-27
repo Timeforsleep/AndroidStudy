@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.contract.ShareArticleContract
 import com.cxz.wanandroid.mvp.model.ShareArticleModel
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/16
  * @desc
  */

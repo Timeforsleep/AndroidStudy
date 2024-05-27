@@ -7,7 +7,7 @@ import com.cxz.wanandroid.mvp.model.bean.HttpResult
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 interface HomeContract {
 

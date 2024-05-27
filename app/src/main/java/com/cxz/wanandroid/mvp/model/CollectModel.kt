@@ -9,7 +9,7 @@ import com.cxz.wanandroid.mvp.model.bean.HttpResult
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/6/9.
+ * Created by guoyikai on 2023/6/9.
  */
 class CollectModel : BaseModel(), CollectContract.Model {
 

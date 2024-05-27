@@ -7,7 +7,7 @@ import com.cxz.swipelibrary.SwipeBackLayout
 import com.cxz.swipelibrary.Utils
 
 /**
- * Created by chenxz on 2018/8/6.
+ * Created by guoyikai on 2023/8/6.
  */
 abstract class BaseMvpSwipeBackActivity<in V : IView, P : IPresenter<V>> : BaseMvpActivity<V, P>(), SwipeBackActivityBase {
 

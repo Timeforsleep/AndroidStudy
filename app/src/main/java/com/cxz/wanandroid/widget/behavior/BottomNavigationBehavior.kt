@@ -8,7 +8,7 @@ import androidx.coordinatorlayout.widget.CoordinatorLayout
 import androidx.core.view.ViewCompat
 
 /**
- * Created by chenxz on 2017/11/25.
+ * Created by guoyikai on 2017/11/25.
  */
 class BottomNavigationBehavior(context: Context, attrs: AttributeSet?) :
     CoordinatorLayout.Behavior<View>(context, attrs) {

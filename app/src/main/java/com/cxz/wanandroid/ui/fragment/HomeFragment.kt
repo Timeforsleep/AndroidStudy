@@ -28,7 +28,7 @@ import kotlinx.android.synthetic.main.fragment_refresh_layout.*
 import kotlinx.android.synthetic.main.item_home_banner.view.*
 
 /**
- * Created by chenxz on 2018/4/22.
+ * Created by guoyikai on 2023/4/22.
  */
 class HomeFragment : BaseMvpFragment<HomeContract.View, HomeContract.Presenter>(), HomeContract.View {
 

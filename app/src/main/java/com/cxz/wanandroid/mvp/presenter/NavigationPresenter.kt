@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.contract.NavigationContract
 import com.cxz.wanandroid.mvp.model.NavigationModel
 
 /**
- * Created by chenxz on 2018/5/13.
+ * Created by guoyikai on 2023/5/13.
  */
 class NavigationPresenter : BasePresenter<NavigationContract.Model, NavigationContract.View>(), NavigationContract.Presenter {
 

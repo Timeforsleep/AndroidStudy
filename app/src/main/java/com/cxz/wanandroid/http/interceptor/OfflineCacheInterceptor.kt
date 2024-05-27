@@ -6,8 +6,8 @@ import okhttp3.Interceptor
 import okhttp3.Response
 
 /**
- * @author chenxz
- * @date 2018/11/15
+ * @author guoyikai
+ * @date 2023/11/15
  * @desc OfflineCacheInterceptor: 没有网时缓存
  */
 class OfflineCacheInterceptor : Interceptor {

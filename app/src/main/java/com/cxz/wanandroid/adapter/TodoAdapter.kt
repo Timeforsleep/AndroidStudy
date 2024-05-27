@@ -12,7 +12,7 @@ import com.cxz.wanandroid.mvp.model.bean.TodoDataBean
 import com.cxz.wanandroid.widget.TiltTextView
 
 /**
- * Created by chenxz on 2018/8/8.
+ * Created by guoyikai on 2023/8/8.
  */
 class TodoAdapter :
     BaseSectionQuickAdapter<TodoDataBean, BaseViewHolder>(R.layout.item_sticky_header, R.layout.item_todo_list),

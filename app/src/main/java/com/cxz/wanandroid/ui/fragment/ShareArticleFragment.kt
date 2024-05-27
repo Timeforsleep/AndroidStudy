@@ -14,7 +14,7 @@ import kotlinx.android.synthetic.main.fragment_share_article.*
 import org.greenrobot.eventbus.EventBus
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/11/15
  * @desc 分享文章
  */

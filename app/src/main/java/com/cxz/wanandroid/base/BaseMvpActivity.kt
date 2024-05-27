@@ -3,8 +3,8 @@ package com.cxz.wanandroid.base
 import com.cxz.wanandroid.ext.showToast
 
 /**
- * @author chenxz
- * @date 2018/9/7
+ * @author guoyikai
+ * @date 2023/9/7
  * @desc BaseMvpActivity
  */
 @Suppress("UNCHECKED_CAST")

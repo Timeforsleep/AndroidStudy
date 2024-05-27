@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.ProjectTreeBean
 import io.reactivex.Observable
 
 /**
- * Created by chenxz on 2018/5/15.
+ * Created by guoyikai on 2023/5/15.
  */
 class ProjectModel : BaseModel(), ProjectContract.Model {
 

@@ -7,7 +7,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.mvp.model.bean.UserScoreBean
 
 /**
- * @author chenxz
+ * @author guoyikai
  * @date 2019/9/5
  * @desc
  */

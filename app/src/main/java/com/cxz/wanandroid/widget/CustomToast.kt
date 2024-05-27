@@ -8,7 +8,7 @@ import android.widget.Toast
 import com.cxz.wanandroid.R
 
 /**
- * Created by chenxz on 2018/6/9.
+ * Created by guoyikai on 2023/6/9.
  * 自定义Toast
  */
 class CustomToast {

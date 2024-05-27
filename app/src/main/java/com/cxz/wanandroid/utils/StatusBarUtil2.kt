@@ -16,7 +16,7 @@ import android.view.WindowManager
 import java.util.regex.Pattern
 
 /**
- * Created by chenxz on 2018/4/21.
+ * Created by guoyikai on 2023/4/21.
  */
 @Deprecated("")
 class StatusBarUtil2 {

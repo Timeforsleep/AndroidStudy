@@ -7,8 +7,8 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.mvp.model.bean.TodoTypeBean
 
 /**
- * @author chenxz
- * @date 2018/11/25
+ * @author guoyikai
+ * @date 2023/11/25
  * @desc
  */
 class TodoPopupAdapter : BaseQuickAdapter<TodoTypeBean, BaseViewHolder>(R.layout.item_todo_popup_list) {

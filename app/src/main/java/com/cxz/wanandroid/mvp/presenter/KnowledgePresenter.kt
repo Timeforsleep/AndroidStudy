@@ -5,7 +5,7 @@ import com.cxz.wanandroid.mvp.contract.KnowledgeContract
 import com.cxz.wanandroid.mvp.model.KnowledgeModel
 
 /**
- * Created by chenxz on 2018/5/12.
+ * Created by guoyikai on 2023/5/12.
  */
 class KnowledgePresenter : CommonPresenter<KnowledgeContract.Model, KnowledgeContract.View>(), KnowledgeContract.Presenter {
 

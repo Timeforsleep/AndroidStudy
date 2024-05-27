@@ -10,7 +10,7 @@ import com.cxz.wanandroid.utils.Preference
 import org.greenrobot.eventbus.EventBus
 
 /**
- * Created by chenxz on 2018/8/1.
+ * Created by guoyikai on 2023/8/1.
  */
 class NetworkChangeReceiver : BroadcastReceiver() {
 

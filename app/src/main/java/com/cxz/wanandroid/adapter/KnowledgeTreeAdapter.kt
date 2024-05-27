@@ -8,7 +8,7 @@ import com.cxz.wanandroid.R
 import com.cxz.wanandroid.mvp.model.bean.KnowledgeTreeBody
 
 /**
- * Created by chenxz on 2018/5/9.
+ * Created by guoyikai on 2023/5/9.
  */
 class KnowledgeTreeAdapter : BaseQuickAdapter<KnowledgeTreeBody, BaseViewHolder>(R.layout.item_knowledge_tree_list),
     LoadMoreModule {

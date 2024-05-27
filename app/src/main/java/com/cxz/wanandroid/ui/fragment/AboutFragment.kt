@@ -11,7 +11,7 @@ import com.cxz.wanandroid.utils.SettingUtil
 import kotlinx.android.synthetic.main.fragment_about.*
 
 /**
- * Created by chenxz on 2018/6/10.
+ * Created by guoyikai on 2023/6/10.
  */
 class AboutFragment : BaseFragment() {
 

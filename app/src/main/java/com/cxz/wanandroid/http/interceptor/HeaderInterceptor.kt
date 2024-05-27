@@ -7,8 +7,8 @@ import okhttp3.Interceptor
 import okhttp3.Response
 
 /**
- * @author chenxz
- * @date 2018/9/26
+ * @author guoyikai
+ * @date 2023/9/26
  * @desc HeaderInterceptor: 设置请求头
  */
 class HeaderInterceptor : Interceptor {
