@@ -81,62 +81,11 @@ class SettingFragment : PreferenceFragment(), SharedPreferences.OnSharedPreferen
             false
         }
 
-        findPreference("scanQrCode").onPreferenceClickListener = Preference.OnPreferenceClickListener {
-            Intent(activity, CommonActivity::class.java).run {
-                putExtra(Constant.TYPE_KEY, Constant.Type.SCAN_QR_CODE_TYPE_KEY)
-                startActivity(this)
-            }
-            false
-        }
-
-        try {
-            val version = context?.resources?.getString(R.string.current_version).toString()
-                .plus(context?.packageManager?.getPackageInfo(context?.packageName ?: "", 0)?.versionName)
-            findPreference("version").summary = version
-        } catch (e: PackageManager.NameNotFoundException) {
-            e.printStackTrace()
-        }
-
-        findPreference("version").setOnPreferenceClickListener {
-            Beta.checkUpgrade()
-            false
-        }
-
         findPreference("official_website").setOnPreferenceClickListener {
             // context?.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.official_website_url))))
             ContentActivity.start(activity, getString(R.string.official_website_url))
             false
         }
-
-        findPreference("about_us").setOnPreferenceClickListener {
-            Intent(activity, CommonActivity::class.java).run {
-                putExtra(Constant.TYPE_KEY, Constant.Type.ABOUT_US_TYPE_KEY)
-                startActivity(this)
-            }
-            false
-        }
-
-        findPreference("changelog").setOnPreferenceClickListener {
-            // context?.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.changelog_url))))
-            ContentActivity.start(activity, getString(R.string.changelog_url))
-            false
-        }
-
-        findPreference("sourceCode").onPreferenceClickListener = Preference.OnPreferenceClickListener {
-            // context?.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.source_code_url))))
-            ContentActivity.start(activity, getString(R.string.source_code_url))
-            false
-        }
-
-        findPreference("copyRight").onPreferenceClickListener = Preference.OnPreferenceClickListener {
-            AlertDialog.Builder(context!!)
-                .setTitle(R.string.copyright)
-                .setMessage(R.string.copyright_content)
-                .setCancelable(true)
-                .show()
-            false
-        }
-
     }
 
     private fun setDefaultText() {
