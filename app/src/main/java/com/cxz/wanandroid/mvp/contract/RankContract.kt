@@ -10,7 +10,7 @@ import io.reactivex.Observable
 
 /**
  * @author guoyikai
- * @date 2019/9/5
+ * @date 2023/9/5
  * @desc
  */
 interface RankContract {

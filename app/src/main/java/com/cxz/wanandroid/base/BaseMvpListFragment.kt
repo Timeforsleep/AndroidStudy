@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.fragment_refresh_layout.*
 
 /**
  * @author guoyikai
- * @date 2019/11/17
+ * @date 2023/11/17
  * @desc BaseMvpListFragment
  */
 abstract class BaseMvpListFragment<in V : IView, P : IPresenter<V>> : BaseMvpFragment<V, P>() {

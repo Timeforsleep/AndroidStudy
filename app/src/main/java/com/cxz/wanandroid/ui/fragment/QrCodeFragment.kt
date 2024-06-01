@@ -6,7 +6,7 @@ import com.cxz.wanandroid.base.BaseFragment
 
 /**
  * @author guoyikai
- * @date 2019/11/17
+ * @date 2023/11/17
  * @desc 扫码下载
  */
 class QrCodeFragment : BaseFragment() {

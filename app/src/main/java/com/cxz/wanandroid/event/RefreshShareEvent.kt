@@ -2,7 +2,7 @@ package com.cxz.wanandroid.event
 
 /**
  * @author guoyikai
- * @date 2019/11/17
+ * @date 2023/11/17
  * @desc
  */
 

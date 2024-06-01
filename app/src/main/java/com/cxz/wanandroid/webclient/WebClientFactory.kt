@@ -4,7 +4,7 @@ import android.webkit.WebViewClient
 
 /**
  * @author guoyikai
- * @date 2019/11/24
+ * @date 2023/11/24
  * @desc WebClientFactory
  */
 object WebClientFactory {

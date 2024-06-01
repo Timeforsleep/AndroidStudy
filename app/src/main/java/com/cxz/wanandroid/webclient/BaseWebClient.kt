@@ -10,7 +10,7 @@ import com.cxz.wanandroid.ext.loge
 
 /**
  * @author guoyikai
- * @date 2019/11/24
+ * @date 2023/11/24
  * @desc BaseWebClient
  */
 open class BaseWebClient : WebViewClient() {

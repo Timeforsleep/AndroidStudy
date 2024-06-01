@@ -17,7 +17,7 @@ data class ArticleDetailBean(
     var collect: Boolean
 )
 
-data class SearchHistoryBean(
+data class SearchHistory(
     val username: String,
     val searchString: String
 )
@@ -179,7 +179,7 @@ class DBHelper private constructor(context: Context) :
         db.insert(TABLE_NAME, null, values)
     }
 
-    fun insertSearchHistory(historyBean: SearchHistoryBean) {
+    fun insertSearchHistory(historyBean: SearchHistory) {
         if (isSearchHistoryExist(historyBean.username, historyBean.searchString)) {
             return
         }
@@ -257,9 +257,9 @@ class DBHelper private constructor(context: Context) :
         return getAllArticles().filter { it.title.contains(searchTitle) }
     }
 
-    fun getSearchHistoryForUser(username: String): List<SearchHistoryBean> {
+    fun getSearchHistoryForUser(username: String): List<SearchHistory> {
         val db = readableDatabase
-        val searchHistoryList = mutableListOf<SearchHistoryBean>()
+        val searchHistoryList = mutableListOf<SearchHistory>()
         val selection = "$COLUMN_USERNAME = ?"
         val selectionArgs = arrayOf(username)
 
@@ -276,7 +276,7 @@ class DBHelper private constructor(context: Context) :
         if (cursor.moveToFirst()) {
             do {
                 val searchString = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_SEARCH_STRING))
-                searchHistoryList.add(SearchHistoryBean(username, searchString))
+                searchHistoryList.add(SearchHistory(username, searchString))
             } while (cursor.moveToNext())
         }
 

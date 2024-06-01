@@ -28,7 +28,7 @@ import org.greenrobot.eventbus.ThreadMode
 
 /**
  * @author guoyikai
- * @date 2019/11/15
+ * @date 2023/11/15
  * @desc 我的分享
  */
 class ShareActivity : BaseMvpSwipeBackActivity<ShareContract.View, SharePresenter>(), ShareContract.View {

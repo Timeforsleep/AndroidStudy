@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.model.SquareModel
 
 /**
  * @author guoyikai
- * @date 2019/11/16
+ * @date 2023/11/16
  * @desc
  */
 class SquarePresenter : CommonPresenter<SquareModel, SquareContract.View>(), SquareContract.Presenter {

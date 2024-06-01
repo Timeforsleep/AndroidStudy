@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.model.ShareModel
 
 /**
  * @author guoyikai
- * @date 2019/11/15
+ * @date 2023/11/15
  * @desc
  */
 class SharePresenter : CommonPresenter<ShareModel, ShareContract.View>(), ShareContract.Presenter {

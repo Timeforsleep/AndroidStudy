@@ -15,7 +15,7 @@ import org.greenrobot.eventbus.EventBus
 
 /**
  * @author guoyikai
- * @date 2019/11/15
+ * @date 2023/11/15
  * @desc 分享文章
  */
 class ShareArticleFragment : BaseMvpFragment<ShareArticleContract.View, ShareArticlePresenter>(), ShareArticleContract.View {

@@ -6,7 +6,7 @@ import com.cxz.wanandroid.mvp.model.SystemModel
 
 /**
  * @author guoyikai
- * @date 2019/11/17
+ * @date 2023/11/17
  * @desc
  */
 class SystemPresenter : BasePresenter<SystemModel, SystemContract.View>(),

@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.UserScoreBean
 
 /**
  * @author guoyikai
- * @date 2019/9/5
+ * @date 2023/9/5
  * @desc
  */
 class ScoreAdapter : BaseQuickAdapter<UserScoreBean, BaseViewHolder>(R.layout.item_socre_list), LoadMoreModule {

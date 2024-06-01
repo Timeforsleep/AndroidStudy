@@ -13,7 +13,7 @@ import com.cxz.wanandroid.utils.ImageLoader
 
 /**
  * @author guoyikai
- * @date 2019/11/15
+ * @date 2023/11/15
  * @desc
  */
 class ShareAdapter : BaseQuickAdapter<Article, BaseViewHolder>(R.layout.item_share_list), LoadMoreModule {

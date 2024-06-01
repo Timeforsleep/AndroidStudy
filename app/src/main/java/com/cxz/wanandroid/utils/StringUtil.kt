@@ -6,7 +6,7 @@ import java.io.InputStreamReader
 
 /**
  * @author guoyikai
- * @date 2019/11/24
+ * @date 2023/11/24
  * @desc StringUtil
  */
 object StringUtil {

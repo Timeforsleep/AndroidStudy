@@ -8,7 +8,7 @@ import io.reactivex.Observable
 
 /**
  * @author guoyikai
- * @date 2019/11/16
+ * @date 2023/11/16
  * @desc
  */
 class SquareModel : CommonModel(), SquareContract.Model {

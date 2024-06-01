@@ -7,7 +7,7 @@ import com.cxz.wanandroid.mvp.model.ShareArticleModel
 
 /**
  * @author guoyikai
- * @date 2019/11/16
+ * @date 2023/11/16
  * @desc
  */
 class ShareArticlePresenter : BasePresenter<ShareArticleModel, ShareArticleContract.View>(), ShareArticleContract.Presenter {

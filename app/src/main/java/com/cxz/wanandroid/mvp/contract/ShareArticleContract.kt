@@ -8,7 +8,7 @@ import io.reactivex.Observable
 
 /**
  * @author guoyikai
- * @date 2019/11/15
+ * @date 2023/11/15
  * @desc
  */
 interface ShareArticleContract {

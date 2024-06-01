@@ -8,7 +8,7 @@ import com.cxz.wanandroid.mvp.model.bean.CoinInfoBean
 
 /**
  * @author guoyikai
- * @date 2019/9/5
+ * @date 2023/9/5
  * @desc
  */
 class RankAdapter : BaseQuickAdapter<CoinInfoBean, BaseViewHolder>(R.layout.item_rank_list), LoadMoreModule {

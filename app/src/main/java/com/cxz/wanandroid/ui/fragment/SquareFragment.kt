@@ -28,7 +28,7 @@ import org.greenrobot.eventbus.ThreadMode
 
 /**
  * @author guoyikai
- * @date 2019/11/16
+ * @date 2023/11/16
  * @desc 广场
  */
 class SquareFragment : BaseMvpListFragment<SquareContract.View, SquarePresenter>(), SquareContract.View {

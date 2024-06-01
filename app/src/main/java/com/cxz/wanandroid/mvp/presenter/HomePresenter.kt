@@ -1,5 +1,9 @@
 package com.cxz.wanandroid.mvp.presenter
 
+import ArticleDetailBean
+import DBHelper
+import android.util.Log
+import com.cxz.wanandroid.app.App
 import com.cxz.wanandroid.ext.ss
 import com.cxz.wanandroid.mvp.contract.HomeContract
 import com.cxz.wanandroid.mvp.model.HomeModel
@@ -49,6 +53,23 @@ class HomePresenter : CommonPresenter<HomeContract.Model, HomeContract.View>(), 
         }
         observable?.ss(mModel, mView, false) {
             mView?.setArticles(it.data)
+            Log.w("gyk", "requestHomeData: ", )
+            val dbHelper = DBHelper.getInstance(App.context)
+            it.data.datas.forEach {
+                dbHelper.insertArticle(ArticleDetailBean(
+                    author = it.author,
+                    fresh = it.fresh,
+                    articleId = it.id,
+                    link = it.link,
+                    niceDate = it.niceDate,
+                    shareUser = it.shareUser,
+                    title = it.title,
+                    superChapterId = it.superChapterId,
+                    superChapterName = it.superChapterName,
+                    collect = it.collect
+                ))
+            }
+
         }
     }
 
